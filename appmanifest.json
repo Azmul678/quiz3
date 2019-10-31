@@ -1,11 +1,11 @@
 {
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Quiz",
+	"short_name": "Quiz",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
-	"background_color": "#400080",
+	"background_color": "#fd7701",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
