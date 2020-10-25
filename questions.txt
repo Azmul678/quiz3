@@ -1,23 +1,21 @@
-How many Collection Point Daraz has?;
+Currently which one is the highest currency in Bangladesh?;
 
-47;
-48;
-49;
-48;
-
-
+1000TK;
+2000TK;
+500TK;
+1000TK;
 |
-Who is the 5th president of the United States?;
-James Monroe;
-John F. Kennedy;
-George Washington;
-James Monroe;
+Cox's Bazar is also known by :   ;
+Panowa;
+Palongkee;
+Above Two;
+Above Two;
 |
-What is the name of national parliament of Bangladesh ?;
-Dhaka Sangshad;
-Bangladesh Sangshad;
-Jatiyo Shangshad;
-Jatiyo Shangshad;
+What is 11.11? ;
+World's Biggest Sale Day;
+World's Biggest Sports Tournament ;
+World's Fashion Day;
+World's Biggest Sale Day;
 |
 
 
